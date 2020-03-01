@@ -5,9 +5,9 @@ Cloning Youtube with Vanilla and ReactJS
 ## Pages
 
 - [ ] HOME
-- [ ] Join
-- [ ] Login
-- [x] Search
+- [X] Join
+- [X] Login
+- [X] Search
 - [ ] User Detail
 - [ ] Edit Profile
 - [ ] Change Password
